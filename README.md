@@ -3,7 +3,7 @@
 
 ## 📋 Descrição do Projeto
 
-O **Sistema de Cadastro de Serviços - VAC_OS** (Ordem de Serviço de Vacol) é uma aplicação de desktop desenvolvida em Python com a biblioteca **Tkinter** e um banco de dados **SQLite** local. Projetada para ser uma solução leve, autônoma e eficiente.
+O **Sistema de Cadastro de Serviços** (Ordem de Serviço) é uma aplicação de desktop desenvolvida em Python com a biblioteca **Tkinter** e um banco de dados **SQLite** local. Projetada para ser uma solução leve, autônoma e eficiente.
 
 A aplicação oferece uma interface completa de Cadastro, Leitura, Atualização e Exclusão (CRUD) para gerenciar ordens de serviço. Vai além do básico com recursos essenciais para a operação, como **validação de CPF**, **verificação de duplicidade de endereço**, **paginação de dados** para alta performance e funcionalidades de exportação para **planilhas Excel** (via Pandas) e **documentos PDF** formatados (via ReportLab).
 
