@@ -35,10 +35,12 @@ O objetivo é fornecer uma ferramenta leve, autônoma e confiável, valorizando 
 
 ### Pré-requisitos
 
-Certifique-se de ter o Python 3.x instalado em seu sistema operacional.
+Certifique-se de ter o Python 3.x instalado.
 
 ### 1. Clonar o Repositório
 
+Copie e cole o comando abaixo no seu terminal para clonar o projeto:
+
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd vac_os
+git clone [https://github.com/PedroHAOliveira/CRUD-SERVICES.git](https://github.com/PedroHAOliveira/CRUD-SERVICES.git)
+cd CRUD-SERVICES
